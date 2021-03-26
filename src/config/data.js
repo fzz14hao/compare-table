@@ -1,0 +1,487 @@
+export default [[{
+    "processName": "订洗水唛*3",
+    "processCode": "BJ01466",
+    "gradeValue": "C",
+    "sam": 0.3179,
+    "processDesc": "平车定洗唛*于埋夹缝中段",
+}, {
+    "processName": "订旗唛于后幅*1（定于正面）",
+    "processCode": "BJ00934",
+    "gradeValue": "C",
+    "sam": 0.198,
+    "processDesc": "订旗唛于后幅*1（定于正面）"
+}, {
+    "processName": "花样车订章仔",
+    "processCode": "KTOP010001",
+    "gradeValue": "C",
+    "sam": 0.3915,
+    "processDesc": "花样机订前片鳄鱼标"
+}, {
+    "processName": "花样车落主唛",
+    "processCode": "KBOP014001",
+    "gradeValue": "C",
+    "sam": 0.544,
+    "processDesc": "花样车落贴布主唛尺码唛（2+2CM）"
+}, {
+    "processName": "贴后幅龟背",
+    "processCode": "KTSM008002",
+    "gradeValue": "C",
+    "sam": 0.8671,
+    "processDesc": "自动贴车贴后幅龟背（U型30cm）*1"
+}, {
+    "processName": "订网球章*1",
+    "processCode": "KTSL006001",
+    "gradeValue": "C",
+    "sam": 0.3915,
+    "processDesc": "花样车订右袖网球章*1"
+}, {
+    "processName": "剪筒贴*2",
+    "processCode": "KTHL007001",
+    "gradeValue": "D",
+    "sam": 0.11,
+    "processDesc": "剪左右门筒贴（单条剪）*2"
+}, {
+    "processName": "模板落门筒贴",
+    "processCode": "BJ01354",
+    "gradeValue": "C",
+    "sam": 0.485,
+    "processDesc": "大型激光模板落门筒贴"
+}, {
+    "processName": "上扁机袖口",
+    "processCode": "KTAS023002",
+    "gradeValue": "B",
+    "sam": 0.69,
+    "processDesc": "四线及骨上扁机袖口连切扁机*2(平上)"
+}, {
+    "processName": "配货挂片*8",
+    "processCode": "KTOP007002",
+    "gradeValue": "D",
+    "sam": 0.392,
+    "processDesc": "前*1后*1袖*2扁机领*1扁机袖口*2主唛*1"
+}, {
+    "processName": "拉肩膊",
+    "processCode": "KTAS009001",
+    "gradeValue": "C",
+    "sam": 0.4295,
+    "processDesc": "及骨拉肩膊连落丈巾（15CM)*2"
+}, {
+    "processName": "冚肩膊",
+    "processCode": "KTAS005002",
+    "gradeValue": "C",
+    "sam": 0.38,
+    "processDesc": "单针冚肩膊（15CM)*2"
+}, {
+    "processName": "订领咀",
+    "processCode": "KTCL004001",
+    "gradeValue": "B",
+    "sam": 0.6214,
+    "processDesc": "平车订领咀*2(净色)"
+}, {
+    "processName": "上扁机领",
+    "processCode": "KTAS020002",
+    "gradeValue": "B",
+    "sam": 0.85,
+    "processDesc": "单针平车暗线上扁机领连拉筒落织带（弧/50cm )1条*1 修筒咀   比对门筒长短修筒咀长短*2 修剪挂耳"
+}, {
+    "processName": "压扁机领捆一圈",
+    "processCode": "BJ00979",
+    "gradeValue": "B",
+    "sam": 1.14,
+    "processDesc": "压扁机领捆一圈（40cm）（翻领角）"
+}, {
+    "processName": "开门筒间筒线",
+    "processCode": "KTPL027001",
+    "gradeValue": "A",
+    "sam": 2.1347,
+    "processDesc": "开门筒间筒两边线连封筒脚及修剪"
+}, {
+    "processName": "封筒底方块",
+    "processCode": "KTPL012004",
+    "gradeValue": "C",
+    "sam": 0.8719,
+    "processDesc": "模板车封筒底方块连折连修剪（口型）"
+}, {
+    "processName": "及骨上袖",
+    "processCode": "KTAS004001",
+    "gradeValue": "B",
+    "sam": 0.7654,
+    "processDesc": "四线及骨车上平装短袖1*2(54CM)*2"
+}, {
+    "processName": "及下脚边散口1*2",
+    "processCode": "KTAS024009",
+    "gradeValue": "C",
+    "sam": 0.3358,
+    "processDesc": "三线锁及前后片下脚边散口（52cm）1*2"
+}, {
+    "processName": "冚衫脚*2",
+    "processCode": "KTAS148001",
+    "gradeValue": "B",
+    "sam": 0.6044,
+    "processDesc": "双针冚车冚开边下摆*2（净色）"
+}, {
+    "processName": "订脚叉位",
+    "processCode": "KTAS040001",
+    "gradeValue": "C",
+    "sam": 0.48,
+    "processDesc": "订脚叉位1*2"
+}, {
+    "processName": "开脚叉*2",
+    "processCode": "KTAS150001",
+    "gradeValue": "A",
+    "sam": 2.6144,
+    "processDesc": "平车开织带脚叉*2（三尖织带脚叉）"
+}, {
+    "processName": "四线及骨埋夹",
+    "processCode": "KTAS046001",
+    "gradeValue": "B",
+    "sam": 1.28,
+    "processDesc": "四线及骨埋夹至短袖1*2（过扁机骨位）"
+}, {
+    "processName": "封扁机袖口*2",
+    "processCode": "KTAS047001",
+    "gradeValue": "C",
+    "sam": 0.666,
+    "processDesc": "折封扁机袖口*2"
+}, {
+    "processName": "下摆打枣",
+    "processCode": "BJ00964",
+    "gradeValue": "C",
+    "sam": 0.312,
+    "processDesc": "下摆打枣*2"
+}, {
+    "processName": "开钮门连点位*2",
+    "processCode": "KTSM010001",
+    "gradeValue": "C",
+    "sam": 0.2667,
+    "processDesc": "傍位开钮门*2"
+}, {
+    "processName": "订钮扣*2",
+    "processCode": "KTSM018011",
+    "gradeValue": "C",
+    "sam": 0.238,
+    "processDesc": "傍位订筒钮扣*2"
+}, {
+    "processName": "扣钮扣",
+    "processCode": "KTHL009002",
+    "gradeValue": "C",
+    "sam": 0.1967,
+    "processDesc": "扣钮扣*2"
+}], [{
+    "processName": "订洗水唛*3",
+    "processCode": "BJ01466",
+    "gradeValue": "C",
+    "sam": 0.3179,
+    "processDesc": "平车定洗唛*于埋夹缝中段",
+}, {
+    "processName": "订旗唛于后幅*1（定于正面）",
+    "processCode": "BJ00934",
+    "gradeValue": "C",
+    "sam": 0.198,
+    "processDesc": "订旗唛于后幅*1（定于正面）"
+}, {
+    "processName": "花样车订章仔",
+    "processCode": "KTOP010001",
+    "gradeValue": "C",
+    "sam": 0.3915,
+    "processDesc": "花样机订前片鳄鱼标"
+}, {
+    "processName": "花样车落主唛",
+    "processCode": "KBOP014001",
+    "gradeValue": "C",
+    "sam": 0.544,
+    "processDesc": "花样车落贴布主唛尺码唛（2+2CM）"
+}, {
+    "processName": "贴后幅龟背",
+    "processCode": "KTSM008002",
+    "gradeValue": "C",
+    "sam": 0.8671,
+    "processDesc": "自动贴车贴后幅龟背（U型30cm）*1"
+}, {
+    "processName": "订网球章*1",
+    "processCode": "KTSL006001",
+    "gradeValue": "C",
+    "sam": 0.3915,
+    "processDesc": "花样车订右袖网球章*1"
+}, {
+    "processName": "剪筒贴*2",
+    "processCode": "KTHL007001",
+    "gradeValue": "D",
+    "sam": 0.11,
+    "processDesc": "剪左右门筒贴（单条剪）*2"
+}, {
+    "processName": "模板落门筒贴",
+    "processCode": "BJ01354",
+    "gradeValue": "C",
+    "sam": 0.485,
+    "processDesc": "大型激光模板落门筒贴"
+}, {
+    "processName": "上扁机袖口",
+    "processCode": "KTAS023002",
+    "gradeValue": "B",
+    "sam": 0.69,
+    "processDesc": "四线及骨上扁机袖口连切扁机*2(平上)"
+}, {
+    "processName": "配货挂片*8",
+    "processCode": "KTOP007002",
+    "gradeValue": "D",
+    "sam": 0.392,
+    "processDesc": "前*1后*1袖*2扁机领*1扁机袖口*2主唛*1"
+}, {
+    "processName": "拉肩膊",
+    "processCode": "KTAS009001",
+    "gradeValue": "C",
+    "sam": 0.4295,
+    "processDesc": "及骨拉肩膊连落丈巾（15CM)*2"
+}, {
+    "processName": "冚肩膊",
+    "processCode": "KTAS005002",
+    "gradeValue": "C",
+    "sam": 0.38,
+    "processDesc": "单针冚肩膊（15CM)*2"
+}, {
+    "processName": "订领咀",
+    "processCode": "KTCL004001",
+    "gradeValue": "B",
+    "sam": 0.6214,
+    "processDesc": "平车订领咀*2(净色)"
+}, {
+    "processName": "上扁机领",
+    "processCode": "KTAS020002",
+    "gradeValue": "B",
+    "sam": 0.85,
+    "processDesc": "单针平车暗线上扁机领连拉筒落织带（弧/50cm )1条*1 修筒咀   比对门筒长短修筒咀长短*2 修剪挂耳"
+}, {
+    "processName": "压扁机领捆一圈",
+    "processCode": "BJ00979",
+    "gradeValue": "B",
+    "sam": 1.14,
+    "processDesc": "压扁机领捆一圈（40cm）（翻领角）"
+}, {
+    "processName": "开门筒间筒线",
+    "processCode": "KTPL027001",
+    "gradeValue": "A",
+    "sam": 2.1347,
+    "processDesc": "开门筒间筒两边线连封筒脚及修剪"
+}, {
+    "processName": "封筒底方块",
+    "processCode": "KTPL012004",
+    "gradeValue": "C",
+    "sam": 0.8719,
+    "processDesc": "模板车封筒底方块连折连修剪（口型）"
+}, {
+    "processName": "及骨上袖",
+    "processCode": "KTAS004001",
+    "gradeValue": "B",
+    "sam": 0.7654,
+    "processDesc": "四线及骨车上平装短袖1*2(54CM)*2"
+}, {
+    "processName": "及下脚边散口1*2",
+    "processCode": "KTAS024009",
+    "gradeValue": "C",
+    "sam": 0.3358,
+    "processDesc": "三线锁及前后片下脚边散口（52cm）1*2"
+}, {
+    "processName": "冚衫脚*2",
+    "processCode": "KTAS148001",
+    "gradeValue": "B",
+    "sam": 0.6044,
+    "processDesc": "双针冚车冚开边下摆*2（净色）"
+}, {
+    "processName": "订脚叉位",
+    "processCode": "KTAS040001",
+    "gradeValue": "C",
+    "sam": 0.48,
+    "processDesc": "订脚叉位1*2"
+}, {
+    "processName": "开脚叉*2",
+    "processCode": "KTAS150001",
+    "gradeValue": "A",
+    "sam": 2.6144,
+    "processDesc": "平车开织带脚叉*2（三尖织带脚叉）"
+}, {
+    "processName": "四线及骨埋夹",
+    "processCode": "KTAS046001",
+    "gradeValue": "B",
+    "sam": 1.28,
+    "processDesc": "四线及骨埋夹至短袖1*2（过扁机骨位）"
+}, {
+    "processName": "封扁机袖口*2",
+    "processCode": "KTAS047001",
+    "gradeValue": "C",
+    "sam": 0.666,
+    "processDesc": "折封扁机袖口*2"
+}, {
+    "processName": "下摆打枣",
+    "processCode": "BJ00964",
+    "gradeValue": "C",
+    "sam": 0.312,
+    "processDesc": "下摆打枣*2"
+}, {
+    "processName": "开钮门连点位*2",
+    "processCode": "KTSM010001",
+    "gradeValue": "C",
+    "sam": 0.2667,
+    "processDesc": "傍位开钮门*2"
+}, {
+    "processName": "订钮扣*2",
+    "processCode": "KTSM018011",
+    "gradeValue": "C",
+    "sam": 0.238,
+    "processDesc": "傍位订筒钮扣*2"
+}], [{
+    "processName": "订洗水唛*1",
+    "processCode": "KTOP004003",
+    "gradeValue": "C",
+    "sam": 0.198,
+    "processDesc": "平车定洗唛于埋夹缝中段*1",
+}, {
+    "processName": "订旗唛于后幅*1（定于正面）",
+    "processCode": "BJ00934",
+    "gradeValue": "C",
+    "sam": 0.198,
+    "processDesc": "订旗唛于后幅*1（定于正面）"
+}, {
+    "processName": "花样车订章仔",
+    "processCode": "KTOP010001",
+    "gradeValue": "C",
+    "sam": 0.3915,
+    "processDesc": "花样机订前片鳄鱼标"
+}, {
+    "processName": "花样车落主唛",
+    "processCode": "KBOP014001",
+    "gradeValue": "C",
+    "sam": 0.544,
+    "processDesc": "花样车落贴布主唛尺码唛（2+2CM）"
+}, {
+    "processName": "贴后幅龟背",
+    "processCode": "KTSM008002",
+    "gradeValue": "C",
+    "sam": 0.8671,
+    "processDesc": "自动贴车贴后幅龟背（U型30cm）*1"
+}, {
+    "processName": "订网球章*1",
+    "processCode": "KTSL006001",
+    "gradeValue": "C",
+    "sam": 0.3915,
+    "processDesc": "花样车订右袖网球章*1"
+}, {
+    "processName": "剪筒贴*2",
+    "processCode": "KTHL007001",
+    "gradeValue": "D",
+    "sam": 0.11,
+    "processDesc": "剪左右门筒贴（单条剪）*2"
+}, {
+    "processName": "模板落门筒贴",
+    "processCode": "BJ01354",
+    "gradeValue": "C",
+    "sam": 0.485,
+    "processDesc": "大型激光模板落门筒贴"
+}, {
+    "processName": "上扁机袖口",
+    "processCode": "KTAS023002",
+    "gradeValue": "B",
+    "sam": 0.69,
+    "processDesc": "四线及骨上扁机袖口连切扁机*2(平上)"
+}, {
+    "processName": "配货挂片*8",
+    "processCode": "KTOP007002",
+    "gradeValue": "D",
+    "sam": 0.392,
+    "processDesc": "前*1后*1袖*2扁机领*1扁机袖口*2主唛*1"
+}, {
+    "processName": "拉肩膊",
+    "processCode": "KTAS009001",
+    "gradeValue": "C",
+    "sam": 0.4295,
+    "processDesc": "及骨拉肩膊连落丈巾（15CM)*2"
+}, {
+    "processName": "冚肩膊",
+    "processCode": "KTAS005002",
+    "gradeValue": "C",
+    "sam": 0.38,
+    "processDesc": "单针冚肩膊（15CM)*2"
+}, {
+    "processName": "订领咀",
+    "processCode": "KTCL004001",
+    "gradeValue": "B",
+    "sam": 0.6214,
+    "processDesc": "平车订领咀*2(净色)"
+}, {
+    "processName": "上扁机领",
+    "processCode": "KTAS020002",
+    "gradeValue": "B",
+    "sam": 0.85,
+    "processDesc": "单针平车暗线上扁机领连拉筒落织带（弧/50cm )1条*1 修筒咀 "
+}, {
+    "processName": "压扁机领捆一圈",
+    "processCode": "BJ00979",
+    "gradeValue": "B",
+    "sam": 1.14,
+    "processDesc": "压扁机领捆一圈（40cm）（翻领角）"
+}, {
+    "processName": "开门筒间筒线",
+    "processCode": "KTPL027001",
+    "gradeValue": "A",
+    "sam": 2.1347,
+    "processDesc": "开门筒间筒两边线连封筒脚及修剪"
+}, {
+    "processName": "封筒底方块",
+    "processCode": "KTPL012004",
+    "gradeValue": "C",
+    "sam": 0.8719,
+    "processDesc": "模板车封筒底方块连折连修剪"
+}, {
+    "processName": "及骨上袖",
+    "processCode": "KTAS004001",
+    "gradeValue": "B",
+    "sam": 0.7654,
+    "processDesc": "四线及骨车上平装短袖1*2(54CM)*2"
+}, {
+    "processName": "及下脚边散口1*2",
+    "processCode": "KTAS024009",
+    "gradeValue": "C",
+    "sam": 0.3358,
+    "processDesc": "三线锁及前后片下脚边散口（52cm）1*4"
+}, {
+    "processName": "冚衫脚*2",
+    "processCode": "KTAS148001",
+    "gradeValue": "B",
+    "sam": 0.6044,
+    "processDesc": "双针冚车冚开边下摆*2（净色）"
+}, {
+    "processName": "订脚叉位",
+    "processCode": "KTAS040001",
+    "gradeValue": "C",
+    "sam": 0.48,
+    "processDesc": "订脚叉位1*2"
+}, {
+    "processName": "开脚叉*2",
+    "processCode": "KTAS150001",
+    "gradeValue": "A",
+    "sam": 2.6144,
+    "processDesc": "平车开织带脚叉*2（三尖织带脚叉）"
+}, {
+    "processName": "四线及骨埋夹",
+    "processCode": "KTAS046001",
+    "gradeValue": "B",
+    "sam": 1.28,
+    "processDesc": "四线及骨埋夹至短袖1*2（过扁机骨位）"
+}, {
+    "processName": "封扁机袖口*2",
+    "processCode": "KTAS047001",
+    "gradeValue": "C",
+    "sam": 0.666,
+    "processDesc": "折封扁机袖口*2"
+}, {
+    "processName": "下摆打枣",
+    "processCode": "BJ00964",
+    "gradeValue": "C",
+    "sam": 0.312,
+    "processDesc": "下摆打枣*2"
+}, {
+    "processName": "开钮门连点位*2",
+    "processCode": "KTSM010001",
+    "gradeValue": "C",
+    "sam": 0.2667,
+    "processDesc": "傍位开钮门*3"
+},]]
