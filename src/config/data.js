@@ -11,7 +11,7 @@ export default [[{
     "sam": 0.198,
     "processDesc": "订旗唛于后幅*1（定于正面）"
 }, {
-    "processName": "花样车订章仔",
+    "processName": "花样车订章仔2",
     "processCode": "KTOP010001",
     "gradeValue": "C",
     "sam": 0.3915,
@@ -39,7 +39,7 @@ export default [[{
     "processCode": "KTHL007001",
     "gradeValue": "D",
     "sam": 0.11,
-    "processDesc": "剪左右门筒贴（单条剪）*2"
+    "processDesc": "剪左右门筒贴（单条剪）*3"
 }, {
     "processName": "模板落门筒贴",
     "processCode": "BJ01354",

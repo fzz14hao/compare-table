@@ -1,3 +1,9 @@
+### 功能
+商品对比功能，简单的数据对比
+不同部分高亮标记
+
+
+
 #  基于vue-cli创建的工程 vue脚手架
 
 ## 安装依赖
@@ -34,3 +40,7 @@ yarn run lint & npm run lint
 
 ### 更多配置
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+###  基本效果如下图
+
+![img.png](img.png)
